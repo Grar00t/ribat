@@ -1,0 +1,29 @@
+# C / asm / NASM
+*.o
+*.obj
+*.a
+*.so
+*.elf
+*.bin
+*.img
+*.iso
+*.map
+*.lst
+*.d
+
+# build/test captures
+build/
+out/
+*.pcap
+*.trace
+*.raw
+*.qcow2
+
+# qemu/debug/editor
+core
+core.*
+.qemu/
+.vscode/
+.idea/
+*.swp
+compile_commands.json
