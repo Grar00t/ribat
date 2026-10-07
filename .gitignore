@@ -27,3 +27,4 @@ core.*
 .idea/
 *.swp
 compile_commands.json
+ribat-hash-test
